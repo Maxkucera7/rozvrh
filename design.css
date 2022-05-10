@@ -1,0 +1,21 @@
+body {
+    background-color: #E4CDA7;
+}
+
+.container {
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: tahoma, sans-serif;
+    position: relative;
+}
+
+.selec-selected:after {
+    position: absolute;
+    content: "";
+    top: 14px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #fff transparent transparent transparent;
+}

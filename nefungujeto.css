@@ -1,0 +1,50 @@
+body {
+    background-color: #E4CDA7;
+}
+
+table {
+    margin-top: 50px;
+    padding: 50px;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+h2 {
+    color: #6B4F4F;
+    padding: 20px;
+    font-family: Tahoma, sans-serif;
+    font-size: 35px;
+    text-align: left;
+}
+
+div {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
+.sex {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+a {
+    background-color: #6b4f4f;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+a:active {
+    background-color: black;
+}
+
+a:visited {
+    background-color: #6b4f4f;
+}
